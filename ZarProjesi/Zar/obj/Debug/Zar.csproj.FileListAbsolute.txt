@@ -1,0 +1,7 @@
+C:\Users\Eddy\OneDrive\Masaüstü\Zar\ZarProjesi\Zar\bin\Debug\Zar.exe.config
+C:\Users\Eddy\OneDrive\Masaüstü\Zar\ZarProjesi\Zar\bin\Debug\Zar.exe
+C:\Users\Eddy\OneDrive\Masaüstü\Zar\ZarProjesi\Zar\bin\Debug\Zar.pdb
+C:\Users\Eddy\OneDrive\Masaüstü\Zar\ZarProjesi\Zar\obj\Debug\Zar.csproj.AssemblyReference.cache
+C:\Users\Eddy\OneDrive\Masaüstü\Zar\ZarProjesi\Zar\obj\Debug\Zar.csproj.CoreCompileInputs.cache
+C:\Users\Eddy\OneDrive\Masaüstü\Zar\ZarProjesi\Zar\obj\Debug\Zar.exe
+C:\Users\Eddy\OneDrive\Masaüstü\Zar\ZarProjesi\Zar\obj\Debug\Zar.pdb
